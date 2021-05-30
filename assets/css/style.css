@@ -1,0 +1,467 @@
+* {
+  margin: 0px;
+}
+body{
+  background-color: #e1e5ea;
+}
+h1{
+  text-align: center;
+  color: #000;
+  margin-top: 20px;
+  font-style: italic;
+  font-size: 48px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+p{
+  font-size: 32px;
+  text-align: center;
+  text-transform: capitalize;
+}
+/* -------------- National flag of bangladesh -------------*/
+.bangladesh {
+  width: 500px;
+  height: 300px;
+  background-color: green;
+  margin: 50px auto 10px auto;
+  overflow: hidden;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 50px auto;
+}
+/* -------------- National flag of Germany -------------*/
+
+.germany {
+  width: 500px;
+  height: 100px;
+  background-color: red;
+  margin: 50px auto 10px auto;
+  border-top: 100px solid black;
+  border-bottom: 100px solid yellow;
+}
+
+/* -------------- National flag of Canada -------------*/
+
+.canada {
+  width: 250px;
+  height: 300px;
+  background-color: white;
+  margin: 50px auto 10px auto;
+  border-left: 125px solid red;
+  border-right: 125px solid red;
+}
+
+.canada img {
+  margin-top: 40px;
+}
+
+/* -------------- National flag of Argentina -------------*/
+
+.argentina {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid skyblue;
+  border-bottom: 100px solid skyblue;
+  margin: 50px auto 10px auto;
+  text-align: center;
+}
+
+.argentina img {
+  width: 100px;
+}
+
+/* -------------- National flag of France -------------*/
+
+.france {
+  width: 166.67px;
+  height: 300px;
+  background-color: #fff;
+  border-left: 166.67px solid blue;
+  border-right: 166.67px solid red;
+  margin: 50px auto 10px auto;
+}
+
+/* -------------- National flag of Japan -------------*/
+.japan {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  margin: 50px auto 10px auto;
+  overflow: hidden;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 50px auto 10px auto;
+}
+
+/* -------------- National flag of Italy -------------*/
+
+.italy {
+  width: 160px;
+  height: 300px;
+  background-color: white;
+  border-left: 170px solid green;
+  border-right: 170px solid red;
+  margin: 50px auto 10px auto;
+}
+
+/* -------------- National flag of India -------------*/
+
+.india {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid orangered;
+  border-bottom: 100px solid green;
+  margin: 50px auto 10px auto;
+  text-align: center;
+}
+
+.india img {
+  width: 90px;
+  margin-top: 5px;
+}
+
+/* -------------- National flag of Russia -------------*/
+
+.russia {
+  width: 500px;
+  height: 100px;
+  background-color: blue;
+  border-top: 100px solid white;
+  border-bottom: 100px solid red;
+  margin: 50px auto 10px auto;
+}
+
+/* -------------- National flag of Syria -------------*/
+
+.syria {
+  width: 500px;
+  height: 100px;
+  background-color: #fff;
+  border-top: 100px solid red;
+  border-bottom: 100px solid #000;
+  margin: 50px auto 10px auto;
+  text-align: center;
+}
+
+.syria img {
+  width: 250px;
+}
+
+/* -------------- National flag of Thailand -------------*/
+.thailand {
+  width: 500px;
+  height: 300px;
+  margin: 50px auto 10px auto;
+}
+.top {
+  width: 500px;
+  height: 50px;
+  background-color: red;
+}
+.center {
+  width: 500px;
+  height: 100px;
+  background-color: blue;
+  border-top: 50px solid white;
+  border-bottom: 50px solid white;
+}
+.buttom {
+  width: 500px;
+  height: 50px;
+  background-color: red;
+}
+
+/* -------------- National flag of Tajikistan -------------*/
+
+.tajikistan {
+  width: 500px;
+  height: 100px;
+  background-color: #fff;
+  border-top: 100px solid red;
+  border-bottom: 100px solid green;
+  margin: 50px auto 10px auto;
+  text-align: center;
+}
+.tajikistan img {
+  width: 100px;
+  margin-top: 15px;
+}
+
+/* -------------- National flag of Poland -------------*/
+.poland {
+  width: 500px;
+  height: 150px;
+  background-color: #fff;
+  border-bottom: 150px solid red;
+  margin: 50px auto 10px auto;
+}
+
+/* -------------- National flag of Paraguay -------------*/
+
+.paraguay {
+  width: 500px;
+  height: 100px;
+  background-color: #fff;
+  border-top: 100px solid red;
+  border-bottom: 100px solid blue;
+  margin: 50px auto 10px auto;
+  text-align: center;
+}
+.paraguay img {
+  width: 100px;
+  margin-top: 10px;
+}
+
+/* -------------- National flag of Romania -------------*/
+
+.romania {
+  width: 166.67px;
+  height: 300px;
+  background-color: yellow;
+  border-left: 166.67px solid blue;
+  border-right: 166.67px solid red;
+  margin: 50px auto 10px auto;
+}
+
+/* -------------- National flag of Maldives -------------*/
+
+.maldives{
+  width: 380px;
+  height: 150px;
+  background-color: #009900;
+  margin: 50px auto 10px;
+  border-top: 75px solid red ;
+  border-bottom: 75px solid red ;
+  border-left: 60px solid red ;
+  border-right: 60px solid red ;
+  text-align: center;
+
+}
+.maldives img{
+  width: 100px;
+  margin-top: 20px;
+}
+
+/* -------------- National flag of Pakistan -------------*/
+.pakistan{
+  width: 350px;
+  height: 300px;
+  background-color: #006600;
+  margin: 50px auto 10px;
+  border-left: 150px solid white;
+  text-align: center;
+}
+.pakistan img{
+  margin-top: 20px;
+}
+
+/* -------------- National flag of Afganistan -------------*/
+
+.afganistan{
+  width: 166.67px;
+  height: 300px;
+  background-color: #E71010;
+  margin: 50px auto 10px;
+  border-left: 166.67px solid #000;
+  border-right: 166.67px solid green;
+  text-align: center;
+}
+.afganistan img{
+  width: 150px;
+  margin-top: 60px;
+}
+
+/* -------------- National flag of Malaysia -------------*/
+
+.malaysia{
+  width: 500px;
+  height: 300px;
+  margin: 50px auto 10px;
+}
+
+.malaysia .one{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+.malaysia .two{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+.malaysia .three{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+.malaysia .four{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+.malaysia .five{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+.malaysia .six{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+
+.malaysia .seven{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+
+.malaysia .eight{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+  border-top: 21.43px solid white;
+  border-bottom: 21.43px solid white;
+}
+.malaysia .nine{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+
+.malaysia .ten{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+.malaysia .eleven{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+.malaysia .twelve{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+.malaysia .logo{
+  margin-top: -300px;
+}
+
+.malaysia .logo img{
+  width: 261px;
+}
+
+/* -------------- National flag of USA -------------*/
+
+.usa{
+  width: 500px;
+  height: 300px;
+  margin: 50px auto 10px;
+}
+
+.usa .one{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+.usa .two{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+.usa .three{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+.usa .four{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+.usa .five{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+.usa .six{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+
+.usa .seven{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+
+.usa .eight{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+  border-top: 21.43px solid white;
+  border-bottom: 21.43px solid white;
+}
+.usa .nine{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+
+.usa .ten{
+  width: 500px;
+  height: 21.43px;
+  background-color: white;
+}
+.usa .eleven{
+  width: 500px;
+  height: 21.43px;
+  background-color: red;
+}
+
+.usa .logo{
+  margin-top: -278px;
+}
+
+.usa .logo img{
+  width: 199px;
+}
+
+/* -------------- National flag of Nepal -------------*/
+
+.nepal{
+  width: 500px;
+  height: 300px;
+  background-color: #fff;
+  margin: 50px auto 10px;
+}
+
+.nepal img{
+  width: 355px;
+}
+
+/* -------------- National flag of China -------------*/
+
+.china{
+  width: 500px;
+  height: 300px;
+  background-color: red;
+  margin: 50px auto 10px;
+}
+
+.china img{
+  margin-top: 10px;
+  width: 180px;
+}
